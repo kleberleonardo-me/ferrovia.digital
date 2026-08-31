@@ -57,8 +57,7 @@ var messages = [
     'Dúvidas ou orçamentos?',
     '<a href="https://wa.me/5511959360936?text=Ol%C3%A1!%20Encontrei%20voc%C3%AAs%20no%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es." target="_blank" style="color: inherit; text-decoration: underline;">Fale direto no WhatsApp 💬</a>',
     'Já é nosso cliente?',
-    '<a href="https://search.google.com/local/writereview?placeid=SEU_PLACE_ID_AQUI" target="_blank" style="color: inherit; text-decoration: underline;">Deixe sua avaliação no Google ⭐</a>',
-    getCurrentTime(),
+    '<a href="https://search.google.com/local/writereview?placeid=ChIJW2x2fptXzpQRy_uIUpC44_4" target="_blank" style="color: inherit; text-decoration: underline;">Deixe sua avaliação no Google ⭐</a>',    getCurrentTime(),
 ];
 
 
