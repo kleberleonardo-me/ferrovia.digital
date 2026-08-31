@@ -58,7 +58,7 @@ var messages = [
     'Sem complicação.',
     'Investimento único: R$ 1.250.',
     getCurrentTime(),
-    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20reestruturar%20meu%20site%20para%20o%20novo%20dom%C3%ADnio%20por%20R%24%201.250." target="_blank" style="color: inherit; text-decoration: underline;">Toque aqui e vamos conversar 👇🏻</a>',
+    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20reestruturar%20meu%20site%20para%20o%20novo%20dom%C3%ADnio%20por%20R%24%201.250." target="_blank" style="color: inherit; text-decoration: underline;">Toque aqui pra falar comigo. 👈🏻</a>',
 ];
 
 
