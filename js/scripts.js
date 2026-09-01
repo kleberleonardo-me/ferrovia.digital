@@ -44,21 +44,22 @@ console.log(greeting); // Exibe a saudação "Tenha um bom dia!", "Boa tarde!" o
 
 
 var messages = [
-    'Olá! 🙋🏻 Sou o Kleber.',
-    'Você esperou essa linha mudar,',
-    'né? ⏱️',
-    'É exatamente isso que faço:',
-    'construo uma vitrine digital',
-    'que prende a atenção e obriga',
-    'o seu visitante a olhar',
-    'para o que você mais vende.',
-    'Copio o seu site atual,',
-    'reformulo a estrutura,',
-    'e entrego pronto no seu novo domínio.',
-    'Sem complicação.',
-    'Investimento único: R$ 1.250.',
-    getCurrentTime(),
-    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20reestruturar%20meu%20site%20para%20o%20novo%20dom%C3%ADnio%20por%20R%24%201.250." target="_blank" style="color: inherit; text-decoration: underline;">Toque aqui pra falar comigo. 👈🏻</a>',
+    'Olá! Meu nome é',
+    'Kleber Schneider.',
+    'Estou montando essa agência',
+    'E para hoje estou buscando alguém',
+    'interessado em criar seu site',
+    'com impacto "Uau!!" aos visitantes',
+    'para que eles se transformem em',
+    'cliente$ no seu negócio físico.',
+    'Dê uma olhada nesses 3 exemplos:',
+    '<a href="https://kleberleonardo.me/exemplo-odo" target="_blank" style="color: inherit; text-decoration: underline;">Exemplo Clínica Odontológica</a>',
+    '<a href="https://kleberleonardo.me/exemplo-rest" target="_blank" style="color: inherit; text-decoration: underline;">Exemplo Restaurante</a>',
+    '<a href="https://kleberleonardo.me/EAG" target="_blank" style="color: inherit; text-decoration: underline;">Exemplo Cartão de QR-CODE</a>',
+    'Especificamente hoje estou fazendo',
+    'por apenas R$ 230 no pix',
+    'para entrega até segunda-feira, 07/09.',
+    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20aproveitar%20a%20oferta%20de%20R%24%20230." target="_blank" style="color: inherit; text-decoration: underline;">Me fala o que acha no whatsapp, tá bem? 👈🏻</a>',
 ];
 
 
