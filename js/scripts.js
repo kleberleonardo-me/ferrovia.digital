@@ -59,7 +59,7 @@ var messages = [
     'Especificamente hoje estou fazendo',
     'por apenas R$ 250 no pix',
     'para entrega até segunda-feira, 07/09.',
-    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20aproveitar%20a%20oferta%20de%20R%24%20230." target="_blank" style="color: inherit; text-decoration: underline;">Me fala o que acha no whatsapp, tá bem?</a>',
+    '<a href="https://wa.me/5511959360936?text=Ol%C3%A1%2C%20Kleber!%20Li%20sua%20mensagem%20no%20site%20e%20quero%20aproveitar%20a%20oferta%20de%20R%24%20250." target="_blank" style="color: inherit; text-decoration: underline;">Me fala o que acha no whatsapp, tá bem?</a>',
     getCurrentTime(),
 ];
 
